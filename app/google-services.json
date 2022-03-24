@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716092442389",
+    "project_id": "aroplainmode",
+    "storage_bucket": "aroplainmode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716092442389:android:b8154df95b61085a114b1c",
+        "android_client_info": {
+          "package_name": "com.zeeshan.aroplainmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716092442389-2g1asg1kugh4lmeafjcm7k10nh8e9es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjf3hfWrFsqALtt7TNixQ63hEhLt1XF0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716092442389-2g1asg1kugh4lmeafjcm7k10nh8e9es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
